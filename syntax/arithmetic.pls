@@ -22,3 +22,7 @@ res is 4/2
 # Exponents
 res is raise 2 to 3
 res is 2 ** 3
+
+# Modulo
+res is mod 20 of 3
+res is 20 % 3
