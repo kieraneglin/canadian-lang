@@ -28,7 +28,7 @@ Once I know what direction I want to head, I'll be re-writing the it in one of t
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/LoamStudios/seed_tray. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
+Bug reports and pull requests are welcome. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
 
 ## License
 
